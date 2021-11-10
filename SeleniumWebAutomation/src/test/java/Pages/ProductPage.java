@@ -24,6 +24,7 @@ public class ProductPage extends BasePage {
     }
 
     public CartPage goToCart(){
+
         click(cartButton);
         return new CartPage(webDriver);
 

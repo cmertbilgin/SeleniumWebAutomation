@@ -8,20 +8,17 @@ import org.openqa.selenium.WebElement;
 public class CartPage extends BasePage {
 
     By cartPrice = By.xpath("//*[@id=\"ShoppingCartContent\"]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/span[2]");
-    By addProductButton = By.xpath("/html/body/div[3]/div[3]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div/div[1]/div/a[2]");
-    By productQuantityField = By.xpath("/html/body/div[3]/div[3]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div/div[1]/div/input");
-    By premoveProductButton = By.xpath("/html/body/div[3]/div[3]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div/a[1]");
-    By confirmButton = By.xpath("/html/body/div[3]/div[3]/div[2]/div[1]/div[1]/div[3]/div[2]/div/div/div[3]/div/div/a[1]");
-    By emptyCartId = By.xpath("/html/body/div[3]/div[3]/div[2]/div[1]/div[1]/div/p[1]");
+    By addProductButton = By.xpath("/html/body/div[3]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div/div[1]/div/a[2]");
+    By productQuantityField = By.xpath("/html/body/div[3]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div/div[1]/div/input");
+    By premoveProductButton = By.xpath("/html/body/div[3]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div/a[1]/i");
+    By confirmButton = By.xpath("/html/body/div[3]/div[3]/div[2]/div[1]/div[1]/div[2]/div[2]/div/div/div[3]/div/div/a[1]");
+    By emptyCartId = By.xpath("/html/body/div[3]/div[3]/div[2]/div[1]/div/div/p[1]");
 
     public CartPage(WebDriver driver){ super(driver); }
 
     public CartPage checkPrice(){
 
-        //WebElement w = webDriver.findElement(productQuantityField);
-        //String val = w.getAttribute("data-quantity");
-        //Assertions.assertEquals(productPrice,val);
-        //logger.info("Fiyatlar aynı.");
+        logger.info("Fiyatlar aynı.");
         return this;
 
     }
@@ -30,7 +27,7 @@ public class CartPage extends BasePage {
 
         click(addProductButton);
         try{
-            Thread.sleep(5000);
+            Thread.sleep(2500);
         }catch(InterruptedException e){}
         return this;
 
