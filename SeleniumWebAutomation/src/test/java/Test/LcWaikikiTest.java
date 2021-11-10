@@ -25,7 +25,7 @@ public class LcWaikikiTest extends BaseTest {
                 .clickProduct()
                 .addToCart()
                 .goToCart()
-                //.checkPrice()
+                .checkPrice()
                 .addProduct()
                 .checkProductQuantity()
                 .removeProduct()

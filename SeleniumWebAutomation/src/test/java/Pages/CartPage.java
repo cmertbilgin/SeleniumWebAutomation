@@ -7,7 +7,7 @@ import org.openqa.selenium.WebElement;
 
 public class CartPage extends BasePage {
 
-    By cartPrice = By.xpath("//*[@id=\"ShoppingCartContent\"]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/span[2]");
+    By cartPrice = By.xpath("//*[@id=\"ShoppingCartContent\"]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/span[2]");
     By addProductButton = By.xpath("/html/body/div[3]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div/div[1]/div/a[2]");
     By productQuantityField = By.xpath("/html/body/div[3]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div/div[1]/div/input");
     By premoveProductButton = By.xpath("/html/body/div[3]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div/a[1]/i");
@@ -18,6 +18,9 @@ public class CartPage extends BasePage {
 
     public CartPage checkPrice(){
 
+        WebElement w = webDriver.findElement(cartPrice);
+        String val = w.getText();
+        Assertions.assertEquals(productPrice,val);
         logger.info("Fiyatlar aynı.");
         return this;
 
