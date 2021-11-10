@@ -1,0 +1,657 @@
+2021-11-09 22:36:31 INFO  BaseTest:19 - Test Başlangıcı
+2021-11-09 22:38:18 INFO  BaseTest:19 - Test Başlangıcı
+2021-11-09 22:38:46 INFO  BaseTest:30 - Test Bitişi
+2021-11-09 22:40:38 INFO  BaseTest:19 - Test Başlangıcı
+2021-11-09 22:40:51 INFO  BaseTest:30 - Test Bitişi
+2021-11-10 09:04:06 INFO  BaseTest:19 - Test Başlangıcı
+2021-11-10 09:04:15 INFO  BaseTest:30 - Test Bitişi
+2021-11-10 09:07:10 INFO  BaseTest:19 - Test Başlangıcı
+2021-11-10 09:07:18 INFO  BaseTest:30 - Test Bitişi
+2021-11-10 09:08:17 INFO  BaseTest:19 - Test Başlangıcı
+2021-11-10 09:08:26 INFO  BaseTest:30 - Test Bitişi
+2021-11-10 09:13:07 INFO  BaseTest:19 - Test Başlangıcı
+2021-11-10 09:13:15 INFO  BaseTest:30 - Test Bitişi
+2021-11-10 09:14:25 INFO  BaseTest:19 - Test Başlangıcı
+2021-11-10 09:14:33 INFO  BaseTest:30 - Test Bitişi
+2021-11-10 09:24:36 INFO  BaseTest:19 - Test Başlangıcı
+2021-11-10 09:24:46 INFO  BaseTest:30 - Test Bitişi
+2021-11-10 09:28:58 INFO  BaseTest:19 - Test Başlangıcı
+2021-11-10 09:29:05 INFO  BaseTest:30 - Test Bitişi
+2021-11-10 09:30:44 INFO  BaseTest:19 - Test Başlangıcı
+2021-11-10 09:30:51 INFO  BaseTest:30 - Test Bitişi
+2021-11-10 11:01:12 INFO  BaseTest:26 - Test Başlıyor.
+2021-11-10 11:01:14 INFO  BasePage:16 - Lc Wakiki sitesi açılıyor.
+2021-11-10 11:01:32 INFO  BaseTest:26 - Test Başlıyor.
+2021-11-10 11:01:54 INFO  BaseTest:26 - Test Başlıyor.
+2021-11-10 11:01:56 INFO  BasePage:16 - Lc Wakiki sitesi açılıyor.
+2021-11-10 11:13:40 INFO  BaseTest:24 - Test Başlıyor.
+2021-11-10 11:13:42 INFO  BasePage:16 - Lc Wakiki sitesi açılıyor.
+2021-11-10 11:14:12 INFO  BaseTest:24 - Test Başlıyor.
+2021-11-10 11:14:14 INFO  BasePage:16 - Lc Wakiki sitesi açılıyor.
+2021-11-10 11:29:44 INFO  BaseTest:24 - Test Başlıyor.
+2021-11-10 11:29:47 INFO  BasePage:16 - Lc Wakiki sitesi açılıyor.
+2021-11-10 11:31:25 INFO  BaseTest:24 - Test Başlıyor.
+2021-11-10 11:31:27 INFO  BasePage:16 - Lc Wakiki sitesi açılıyor.
+2021-11-10 11:31:32 INFO  BasePage:27 - Giris sayfası açılıyor.
+2021-11-10 11:35:53 INFO  BaseTest:24 - Test Başlıyor.
+2021-11-10 11:35:55 INFO  BasePage:16 - Lc Wakiki sitesi açılıyor.
+2021-11-10 11:36:01 INFO  BasePage:27 - Giris sayfası açılıyor.
+2021-11-10 11:38:46 INFO  BaseTest:24 - Test Başlıyor.
+2021-11-10 11:38:47 INFO  BasePage:16 - Lc Wakiki sitesi açılıyor.
+2021-11-10 11:39:08 INFO  BasePage:27 - Giris sayfası açılıyor.
+2021-11-10 11:49:01 INFO  BaseTest:24 - Test Başlıyor.
+2021-11-10 11:49:03 INFO  BasePage:16 - Lc Wakiki sitesi açılıyor.
+2021-11-10 11:49:13 INFO  BasePage:27 - Giris sayfası açılıyor.
+2021-11-10 12:13:16 INFO  BaseTest:24 - Test Başlıyor.
+2021-11-10 12:13:18 INFO  BasePage:16 - Lc Wakiki sitesi açılıyor.
+2021-11-10 12:13:23 INFO  BasePage:27 - Giris sayfası açılıyor.
+2021-11-10 12:14:33 INFO  BaseTest:24 - Test Başlıyor.
+2021-11-10 12:14:34 INFO  BasePage:16 - Lc Wakiki sitesi açılıyor.
+2021-11-10 12:14:40 INFO  BasePage:27 - Giris sayfası açılıyor.
+2021-11-10 13:12:11 INFO  BaseTest:24 - Test Başlıyor.
+2021-11-10 13:12:14 INFO  BasePage:18 - Lc Wakiki sitesi açılıyor.
+2021-11-10 13:12:20 INFO  BasePage:32 - Giris sayfası açılıyor.
+2021-11-10 13:19:52 INFO  BaseTest:24 - Test Başlıyor.
+2021-11-10 13:19:54 INFO  BasePage:18 - Lc Wakiki sitesi açılıyor.
+2021-11-10 13:19:59 INFO  BasePage:32 - Giris sayfası açılıyor.
+2021-11-10 14:36:52 INFO  BaseTest:24 - Test Başlıyor.
+2021-11-10 14:36:54 INFO  BasePage:18 - LC Waikiki sitesi açılıyor.
+2021-11-10 14:37:01 INFO  BasePage:31 - Giris sayfası açılıyor.
+2021-11-10 14:41:53 INFO  BaseTest:24 - Test Başlıyor.
+2021-11-10 14:41:55 INFO  BasePage:18 - LC Waikiki sitesi açılıyor.
+2021-11-10 14:42:01 INFO  BasePage:31 - Giriş sayfası açılıyor.
+2021-11-10 14:43:32 INFO  BaseTest:24 - Test Başlıyor.
+2021-11-10 14:43:34 INFO  BasePage:18 - LC Waikiki sitesi açılıyor.
+2021-11-10 14:44:30 INFO  BaseTest:24 - Test Başlıyor.
+2021-11-10 14:44:32 INFO  BasePage:18 - LC Waikiki sitesi açılıyor.
+2021-11-10 14:44:38 INFO  BasePage:27 - Anasayfa açıldı.
+2021-11-10 14:44:38 INFO  BasePage:32 - Giriş sayfası açılıyor.
+2021-11-10 15:10:36 INFO  BaseTest:26 - Test Başlıyor.
+2021-11-10 15:10:38 INFO  BasePage:18 - LC Waikiki sitesi açılıyor.
+2021-11-10 15:10:48 INFO  BasePage:27 - Anasayfa açıldı.
+2021-11-10 15:10:48 INFO  BasePage:32 - Giriş sayfası açılıyor.
+2021-11-10 15:12:04 INFO  BaseTest:26 - Test Başlıyor.
+2021-11-10 15:12:06 INFO  BasePage:18 - LC Waikiki sitesi açılıyor.
+2021-11-10 15:12:12 INFO  BasePage:27 - Anasayfa açıldı.
+2021-11-10 15:12:12 INFO  BasePage:32 - Giriş sayfası açılıyor.
+2021-11-10 15:17:28 INFO  BaseTest:26 - Test Başlıyor.
+2021-11-10 15:17:31 INFO  BasePage:18 - LC Waikiki sitesi açılıyor.
+2021-11-10 15:17:37 INFO  BasePage:27 - Anasayfa açıldı.
+2021-11-10 15:17:37 INFO  BasePage:32 - Giriş sayfası açılıyor.
+2021-11-10 15:20:48 INFO  BaseTest:26 - Test Başlıyor.
+2021-11-10 15:20:50 INFO  BasePage:18 - LC Waikiki sitesi açılıyor.
+2021-11-10 15:20:56 INFO  BasePage:27 - Anasayfa açıldı.
+2021-11-10 15:20:56 INFO  BasePage:32 - Giriş sayfası açılıyor.
+2021-11-10 15:21:42 INFO  BaseTest:26 - Test Başlıyor.
+2021-11-10 15:21:44 INFO  BasePage:18 - LC Waikiki sitesi açılıyor.
+2021-11-10 15:21:51 INFO  BasePage:27 - Anasayfa açıldı.
+2021-11-10 15:21:51 INFO  BasePage:32 - Giriş sayfası açılıyor.
+2021-11-10 15:23:15 INFO  BaseTest:26 - Test Başlıyor.
+2021-11-10 15:23:17 INFO  BasePage:18 - LC Waikiki sitesi açılıyor.
+2021-11-10 15:23:23 INFO  BasePage:27 - Anasayfa açıldı.
+2021-11-10 15:23:23 INFO  BasePage:32 - Giriş sayfası açılıyor.
+2021-11-10 15:25:33 INFO  BaseTest:26 - Test Başlıyor.
+2021-11-10 15:25:35 INFO  BasePage:18 - LC Waikiki sitesi açılıyor.
+2021-11-10 15:25:41 INFO  BasePage:27 - Anasayfa açıldı.
+2021-11-10 15:25:41 INFO  BasePage:32 - Giriş sayfası açılıyor.
+2021-11-10 15:44:02 INFO  BaseTest:26 - Test Başlıyor.
+2021-11-10 15:44:04 INFO  BasePage:18 - LC Waikiki sitesi açılıyor.
+2021-11-10 15:44:10 INFO  BasePage:27 - Anasayfa açıldı.
+2021-11-10 15:44:10 INFO  BasePage:32 - Giriş sayfası açılıyor.
+2021-11-10 15:44:13 INFO  BasePage:18 - Giriş yapılıyor.
+2021-11-10 15:44:44 INFO  BaseTest:26 - Test Başlıyor.
+2021-11-10 15:44:47 INFO  BasePage:18 - LC Waikiki sitesi açılıyor.
+2021-11-10 15:44:53 INFO  BasePage:27 - Anasayfa açıldı.
+2021-11-10 15:44:53 INFO  BasePage:32 - Giriş sayfası açılıyor.
+2021-11-10 15:44:53 INFO  BasePage:18 - Giriş yapılıyor.
+2021-11-10 15:48:03 INFO  BaseTest:26 - Test Başlıyor.
+2021-11-10 15:48:05 INFO  BasePage:18 - LC Waikiki sitesi açılıyor.
+2021-11-10 15:48:10 INFO  BasePage:27 - Anasayfa açıldı.
+2021-11-10 15:48:10 INFO  BasePage:32 - Giriş sayfası açılıyor.
+2021-11-10 15:48:13 INFO  BasePage:18 - Giriş yapılıyor.
+2021-11-10 16:01:11 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 16:01:13 INFO  BasePage:18 - LC Waikiki sitesi açılıyor.
+2021-11-10 16:01:20 INFO  BasePage:27 - Anasayfa açıldı.
+2021-11-10 16:01:20 INFO  BasePage:32 - Giriş sayfası açılıyor.
+2021-11-10 16:01:22 INFO  BasePage:18 - Giriş yapılıyor.
+2021-11-10 16:15:05 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 16:15:07 INFO  BasePage:18 - LC Waikiki sitesi açılıyor.
+2021-11-10 16:15:13 INFO  BasePage:27 - Anasayfa açıldı.
+2021-11-10 16:15:13 INFO  BasePage:32 - Giriş sayfası açılıyor.
+2021-11-10 16:15:15 INFO  BasePage:18 - Giriş yapılıyor.
+2021-11-10 16:27:34 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 16:27:36 INFO  BasePage:19 - LC Waikiki sitesi açılıyor.
+2021-11-10 16:27:42 INFO  BasePage:28 - Anasayfa açıldı.
+2021-11-10 16:27:42 INFO  BasePage:33 - Giriş sayfası açılıyor.
+2021-11-10 16:27:42 INFO  BasePage:18 - Giriş yapılıyor.
+2021-11-10 16:29:32 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 16:29:36 INFO  BasePage:19 - LC Waikiki sitesi açılıyor.
+2021-11-10 16:29:43 INFO  BasePage:28 - Anasayfa açıldı.
+2021-11-10 16:29:43 INFO  BasePage:33 - Giriş sayfası açılıyor.
+2021-11-10 16:29:46 INFO  BasePage:18 - Giriş yapılıyor.
+2021-11-10 16:53:39 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 16:53:42 INFO  BasePage:19 - LC Waikiki sitesi açılıyor.
+2021-11-10 16:53:48 INFO  BasePage:28 - Anasayfa açıldı.
+2021-11-10 16:53:48 INFO  BasePage:33 - Giriş sayfası açılıyor.
+2021-11-10 16:53:51 INFO  BasePage:18 - Giriş yapılıyor.
+2021-11-10 16:53:54 INFO  BasePage:41 - Giriş başarıyla gerçekleşti.
+2021-11-10 17:05:41 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 17:05:44 INFO  BasePage:20 - LC Waikiki sitesi açılıyor.
+2021-11-10 17:05:51 INFO  BasePage:29 - Anasayfa açıldı.
+2021-11-10 17:05:51 INFO  BasePage:34 - Giriş sayfası açılıyor.
+2021-11-10 17:05:51 INFO  BasePage:18 - Giriş yapılıyor.
+2021-11-10 17:05:56 INFO  BasePage:42 - Giriş başarıyla gerçekleşti.
+2021-11-10 17:08:34 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 17:08:39 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 17:08:45 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 17:08:45 INFO  BasePage:35 - Giriş sayfası açılıyor.
+2021-11-10 17:08:47 INFO  BasePage:18 - Giriş yapılıyor.
+2021-11-10 17:08:50 INFO  BasePage:43 - Giriş başarıyla gerçekleşti.
+2021-11-10 17:09:45 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 17:09:48 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 17:09:54 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 17:09:54 INFO  BasePage:35 - Giriş sayfası açılıyor.
+2021-11-10 17:09:55 INFO  BasePage:18 - Giriş yapılıyor.
+2021-11-10 17:10:00 INFO  BasePage:43 - Giriş başarıyla gerçekleşti.
+2021-11-10 17:13:48 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 17:13:51 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 17:13:57 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 17:13:57 INFO  BasePage:35 - Giriş sayfası açılıyor.
+2021-11-10 17:13:58 INFO  BasePage:18 - Giriş yapılıyor.
+2021-11-10 17:14:03 INFO  BasePage:43 - Giriş başarıyla gerçekleşti.
+2021-11-10 17:15:16 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 17:15:19 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 17:15:25 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 17:15:25 INFO  BasePage:35 - Giriş sayfası açılıyor.
+2021-11-10 17:15:27 INFO  BasePage:18 - Giriş yapılıyor.
+2021-11-10 17:15:30 INFO  BasePage:43 - Giriş başarıyla gerçekleşti.
+2021-11-10 17:16:53 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 17:16:55 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 17:17:00 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 17:17:00 INFO  BasePage:35 - Giriş sayfası açılıyor.
+2021-11-10 17:17:00 INFO  BasePage:18 - Giriş yapılıyor.
+2021-11-10 17:17:05 INFO  BasePage:43 - Giriş başarıyla gerçekleşti.
+2021-11-10 17:20:43 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 17:20:45 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 17:20:51 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 17:20:51 INFO  BasePage:35 - Giriş sayfası açılıyor.
+2021-11-10 17:20:51 INFO  BasePage:18 - Giriş yapılıyor.
+2021-11-10 17:20:56 INFO  BasePage:43 - Giriş başarıyla gerçekleşti.
+2021-11-10 17:22:16 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 17:22:19 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 17:22:26 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 17:22:26 INFO  BasePage:35 - Giriş sayfası açılıyor.
+2021-11-10 17:22:28 INFO  BasePage:18 - Giriş yapılıyor.
+2021-11-10 17:22:31 INFO  BasePage:43 - Giriş başarıyla gerçekleşti.
+2021-11-10 17:26:17 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 17:26:19 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 17:26:25 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 17:26:25 INFO  BasePage:35 - Giriş sayfası açılıyor.
+2021-11-10 17:26:25 INFO  BasePage:18 - Giriş yapılıyor.
+2021-11-10 17:26:55 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 17:26:57 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 17:27:02 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 17:27:02 INFO  BasePage:35 - Giriş sayfası açılıyor.
+2021-11-10 17:27:03 INFO  BasePage:18 - Giriş yapılıyor.
+2021-11-10 17:27:34 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 17:27:37 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 17:27:41 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 17:27:41 INFO  BasePage:35 - Giriş sayfası açılıyor.
+2021-11-10 17:27:42 INFO  BasePage:18 - Giriş yapılıyor.
+2021-11-10 17:27:47 INFO  BasePage:43 - Giriş başarıyla gerçekleşti.
+2021-11-10 17:28:43 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 17:28:45 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 17:28:52 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 17:28:52 INFO  BasePage:35 - Giriş sayfası açılıyor.
+2021-11-10 17:28:53 INFO  BasePage:18 - Giriş yapılıyor.
+2021-11-10 17:28:59 INFO  BasePage:43 - Giriş başarıyla gerçekleşti.
+2021-11-10 17:30:07 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 17:30:09 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 17:30:16 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 17:30:16 INFO  BasePage:35 - Giriş sayfası açılıyor.
+2021-11-10 17:30:16 INFO  BasePage:18 - Giriş yapılıyor.
+2021-11-10 17:30:44 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 17:30:46 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 17:30:52 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 17:30:52 INFO  BasePage:35 - Giriş sayfası açılıyor.
+2021-11-10 17:30:52 INFO  BasePage:18 - Giriş yapılıyor.
+2021-11-10 17:30:58 INFO  BasePage:43 - Giriş başarıyla gerçekleşti.
+2021-11-10 17:31:42 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 17:31:44 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 17:31:50 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 17:31:50 INFO  BasePage:35 - Giriş sayfası açılıyor.
+2021-11-10 17:31:50 INFO  BasePage:18 - Giriş yapılıyor.
+2021-11-10 17:31:56 INFO  BasePage:43 - Giriş başarıyla gerçekleşti.
+2021-11-10 17:33:20 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 17:33:23 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 17:33:33 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 17:33:33 INFO  BasePage:35 - Giriş sayfası açılıyor.
+2021-11-10 17:33:35 INFO  BasePage:18 - Giriş yapılıyor.
+2021-11-10 17:33:38 INFO  BasePage:43 - Giriş başarıyla gerçekleşti.
+2021-11-10 17:34:43 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 17:34:45 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 17:34:50 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 17:34:50 INFO  BasePage:35 - Giriş sayfası açılıyor.
+2021-11-10 17:34:52 INFO  BasePage:18 - Giriş yapılıyor.
+2021-11-10 17:35:03 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 17:35:05 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 17:35:11 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 17:35:11 INFO  BasePage:35 - Giriş sayfası açılıyor.
+2021-11-10 17:35:11 INFO  BasePage:18 - Giriş yapılıyor.
+2021-11-10 17:36:01 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 17:36:04 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 17:36:10 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 17:37:48 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 17:37:51 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 17:37:56 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 17:39:01 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 17:39:03 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 17:39:09 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 17:40:35 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 17:40:37 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 17:40:43 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 17:41:12 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 17:41:14 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 17:41:20 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 17:44:30 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 17:44:32 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 17:44:37 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 17:46:52 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 17:46:54 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 17:47:00 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 17:47:17 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 17:47:19 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 17:47:25 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 17:48:07 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 17:48:09 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 17:48:15 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 17:57:48 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 17:57:50 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 17:57:56 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 18:00:45 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 18:00:48 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 18:00:55 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 18:01:47 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 18:01:49 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 18:01:55 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 18:02:14 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 18:02:16 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 18:02:22 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 18:04:35 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 18:04:37 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 18:04:44 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 18:10:49 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 18:10:51 INFO  BasePage:22 - LC Waikiki sitesi açılıyor.
+2021-11-10 18:11:03 INFO  BasePage:31 - Anasayfa açıldı.
+2021-11-10 18:11:17 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 18:11:20 INFO  BasePage:22 - LC Waikiki sitesi açılıyor.
+2021-11-10 18:11:39 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 18:11:41 INFO  BasePage:22 - LC Waikiki sitesi açılıyor.
+2021-11-10 18:11:47 INFO  BasePage:31 - Anasayfa açıldı.
+2021-11-10 18:18:04 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 18:18:06 INFO  BasePage:22 - LC Waikiki sitesi açılıyor.
+2021-11-10 18:18:11 INFO  BasePage:31 - Anasayfa açıldı.
+2021-11-10 18:21:56 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 18:21:58 INFO  BasePage:20 - LC Waikiki sitesi açılıyor.
+2021-11-10 18:22:04 INFO  BasePage:29 - Anasayfa açıldı.
+2021-11-10 18:22:50 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 18:22:52 INFO  BasePage:20 - LC Waikiki sitesi açılıyor.
+2021-11-10 18:22:58 INFO  BasePage:29 - Anasayfa açıldı.
+2021-11-10 18:30:12 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 18:30:14 INFO  BasePage:20 - LC Waikiki sitesi açılıyor.
+2021-11-10 18:30:24 INFO  BasePage:29 - Anasayfa açıldı.
+2021-11-10 18:32:39 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 18:32:42 INFO  BasePage:20 - LC Waikiki sitesi açılıyor.
+2021-11-10 18:32:47 INFO  BasePage:29 - Anasayfa açıldı.
+2021-11-10 18:33:29 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 18:33:31 INFO  BasePage:20 - LC Waikiki sitesi açılıyor.
+2021-11-10 18:33:37 INFO  BasePage:29 - Anasayfa açıldı.
+2021-11-10 18:48:39 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 18:48:42 INFO  BasePage:20 - LC Waikiki sitesi açılıyor.
+2021-11-10 18:48:46 INFO  BasePage:29 - Anasayfa açıldı.
+2021-11-10 18:50:08 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 18:50:10 INFO  BasePage:20 - LC Waikiki sitesi açılıyor.
+2021-11-10 18:50:16 INFO  BasePage:29 - Anasayfa açıldı.
+2021-11-10 18:54:19 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 18:54:21 INFO  BasePage:20 - LC Waikiki sitesi açılıyor.
+2021-11-10 18:54:26 INFO  BasePage:29 - Anasayfa açıldı.
+2021-11-10 18:56:01 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 18:56:03 INFO  BasePage:20 - LC Waikiki sitesi açılıyor.
+2021-11-10 18:56:10 INFO  BasePage:29 - Anasayfa açıldı.
+2021-11-10 19:00:16 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 19:00:18 INFO  BasePage:20 - LC Waikiki sitesi açılıyor.
+2021-11-10 19:00:23 INFO  BasePage:29 - Anasayfa açıldı.
+2021-11-10 19:03:22 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 19:03:40 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 19:04:17 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 19:05:55 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 19:05:57 INFO  BasePage:22 - LC Waikiki sitesi açılıyor.
+2021-11-10 19:06:03 INFO  BasePage:31 - Anasayfa açıldı.
+2021-11-10 19:07:13 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 19:07:52 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 19:10:39 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 19:19:59 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 19:20:01 INFO  BasePage:22 - LC Waikiki sitesi açılıyor.
+2021-11-10 19:20:07 INFO  BasePage:31 - Anasayfa açıldı.
+2021-11-10 19:34:50 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 19:34:52 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 19:34:58 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 19:36:02 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 19:36:05 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 19:36:28 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 19:36:59 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 19:37:01 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 19:37:19 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 19:38:45 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 19:38:47 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 19:38:58 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 19:40:15 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 19:40:17 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 19:40:39 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 19:41:11 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 19:41:14 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 19:41:37 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 19:43:20 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 19:43:22 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 19:43:41 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 19:51:29 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 19:51:31 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 19:51:37 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 19:54:15 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 19:54:17 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 19:54:26 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 19:56:09 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 19:56:11 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 19:56:30 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 19:59:12 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 19:59:14 INFO  BasePage:22 - LC Waikiki sitesi açılıyor.
+2021-11-10 19:59:31 INFO  BasePage:31 - Anasayfa açıldı.
+2021-11-10 20:04:52 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 20:04:54 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 20:05:00 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 20:05:37 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 20:05:39 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 20:05:45 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 20:13:15 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 20:13:17 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 20:13:23 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 20:15:51 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 20:15:53 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 20:15:59 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 20:26:08 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 20:26:11 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 20:26:17 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 20:26:34 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 20:26:36 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 20:26:41 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 20:28:38 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 20:28:40 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 20:28:45 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 20:30:02 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 20:30:05 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 20:30:28 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 20:36:05 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 20:36:07 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 20:36:14 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 20:38:10 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 20:38:12 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 20:38:18 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 20:39:22 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 20:39:25 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 20:39:30 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 20:45:32 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 20:45:34 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 20:45:39 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 20:48:20 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 20:48:22 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 20:48:29 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 21:03:33 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 21:03:35 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 21:03:41 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 21:04:37 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 21:04:39 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 21:04:45 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 21:05:42 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 21:05:44 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 21:05:50 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 21:11:47 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 21:11:50 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 21:11:55 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 21:19:32 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 21:19:34 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 21:19:40 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 21:21:32 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 21:21:34 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 21:21:40 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 21:23:46 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 21:23:49 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 21:23:54 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 21:24:51 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 21:24:54 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 21:25:01 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 21:25:24 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 21:25:26 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 21:25:34 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 21:37:27 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 21:37:30 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 21:37:37 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 21:46:45 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 21:46:48 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 21:46:53 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 21:48:17 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 21:48:19 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 21:48:25 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 21:51:24 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 21:51:26 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 21:51:31 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 21:53:51 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 21:53:53 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 21:53:58 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 21:59:17 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 21:59:19 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 21:59:24 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 22:01:13 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 22:01:16 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 22:01:21 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 22:04:33 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 22:04:35 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 22:04:41 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 22:07:13 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 22:07:16 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 22:07:23 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 22:08:34 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 22:08:36 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 22:08:41 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 22:09:36 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 22:09:38 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 22:09:52 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 22:10:38 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 22:10:40 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 22:10:46 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 22:12:45 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 22:12:47 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 22:12:54 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 22:18:36 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 22:18:38 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 22:18:44 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 22:20:18 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 22:20:20 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 22:20:27 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 22:21:54 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 22:21:56 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 22:22:01 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 22:22:01 INFO  BasePage:35 - Giriş sayfası açılıyor.
+2021-11-10 22:22:02 INFO  BasePage:16 - Giriş yapılıyor.
+2021-11-10 22:23:10 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 22:23:12 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 22:23:18 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 22:23:18 INFO  BasePage:35 - Giriş sayfası açılıyor.
+2021-11-10 22:23:18 INFO  BasePage:16 - Giriş yapılıyor.
+2021-11-10 22:25:21 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 22:25:23 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 22:25:29 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 22:25:29 INFO  BasePage:35 - Giriş sayfası açılıyor.
+2021-11-10 22:25:32 INFO  BasePage:16 - Giriş yapılıyor.
+2021-11-10 22:26:56 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 22:26:59 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 22:27:04 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 22:27:04 INFO  BasePage:35 - Giriş sayfası açılıyor.
+2021-11-10 22:27:05 INFO  BasePage:16 - Giriş yapılıyor.
+2021-11-10 22:28:43 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 22:28:45 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 22:28:51 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 22:28:51 INFO  BasePage:35 - Giriş sayfası açılıyor.
+2021-11-10 22:28:53 INFO  BasePage:16 - Giriş yapılıyor.
+2021-11-10 22:28:56 INFO  BasePage:43 - Giriş başarıyla gerçekleşti.
+2021-11-10 22:31:17 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 22:31:19 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 22:31:24 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 22:34:30 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 22:34:32 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 22:34:38 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 22:35:00 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 22:35:03 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 22:35:09 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 22:41:44 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 22:41:46 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 22:41:52 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 22:48:58 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 22:49:00 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 22:49:06 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 22:53:37 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 22:53:40 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 22:53:46 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 22:55:54 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 22:55:56 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 22:56:02 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 22:59:01 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 22:59:04 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 22:59:10 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 23:00:44 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 23:00:47 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 23:00:53 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 23:02:23 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 23:02:25 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 23:02:52 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 23:04:04 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 23:04:07 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 23:04:13 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 23:06:09 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 23:06:11 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 23:06:16 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 23:08:59 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 23:09:02 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 23:09:07 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 23:09:46 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 23:09:48 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 23:09:54 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 23:13:29 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 23:13:31 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 23:13:37 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 23:14:33 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 23:14:35 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 23:14:41 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 23:16:35 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 23:16:37 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 23:16:43 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 23:17:17 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 23:17:19 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 23:17:26 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 23:18:34 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 23:18:36 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 23:18:43 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 23:24:11 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 23:24:14 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 23:24:21 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 23:24:40 INFO  BasePage:41 - Ürün adedi doğru
+2021-11-10 23:26:48 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 23:26:51 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 23:26:58 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 23:27:18 INFO  BasePage:41 - Ürün adedi doğru
+2021-11-10 23:30:25 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 23:30:28 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 23:30:58 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 23:31:29 INFO  BasePage:41 - Ürün adedi doğru
+2021-11-10 23:33:35 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 23:33:38 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 23:33:45 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 23:34:04 INFO  BasePage:41 - Ürün adedi doğru
+2021-11-10 23:34:59 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 23:35:02 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 23:35:08 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 23:35:21 INFO  BasePage:41 - Ürün adedi doğru
+2021-11-10 23:35:55 INFO  BaseTest:25 - Test Başlıyor.
+2021-11-10 23:35:57 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 23:36:02 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 23:36:16 INFO  BasePage:41 - Ürün adedi doğru
+2021-11-10 23:39:32 INFO  BaseTest:26 - Test Başlıyor.
+2021-11-10 23:39:34 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 23:39:39 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 23:39:53 INFO  BasePage:41 - Ürün adedi doğru
+2021-11-10 23:39:56 INFO  BasePage:61 - Sepet boş
+2021-11-10 23:39:58 INFO  BaseTest:38 - Test bitti
+2021-11-10 23:43:19 INFO  BaseTest:26 - Test Başlıyor.
+2021-11-10 23:43:21 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 23:43:26 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 23:43:26 INFO  BasePage:35 - Giriş sayfası açılıyor.
+2021-11-10 23:43:28 INFO  BasePage:16 - Giriş yapılıyor.
+2021-11-10 23:43:32 INFO  BasePage:43 - Giriş başarıyla gerçekleşti.
+2021-11-10 23:43:44 INFO  BaseTest:38 - Test bitti
+2021-11-10 23:45:00 INFO  BaseTest:26 - Test Başlıyor.
+2021-11-10 23:45:02 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 23:45:08 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 23:45:08 INFO  BasePage:35 - Giriş sayfası açılıyor.
+2021-11-10 23:45:09 INFO  BasePage:16 - Giriş yapılıyor.
+2021-11-10 23:45:19 INFO  BasePage:43 - Giriş başarıyla gerçekleşti.
+2021-11-10 23:45:43 INFO  BaseTest:26 - Test Başlıyor.
+2021-11-10 23:45:45 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 23:45:52 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 23:45:52 INFO  BasePage:35 - Giriş sayfası açılıyor.
+2021-11-10 23:45:52 INFO  BasePage:16 - Giriş yapılıyor.
+2021-11-10 23:45:56 INFO  BasePage:43 - Giriş başarıyla gerçekleşti.
+2021-11-10 23:46:07 INFO  BaseTest:38 - Test bitti
+2021-11-10 23:47:33 INFO  BaseTest:26 - Test Başlıyor.
+2021-11-10 23:47:35 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 23:47:52 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 23:47:52 INFO  BasePage:35 - Giriş sayfası açılıyor.
+2021-11-10 23:47:56 INFO  BasePage:16 - Giriş yapılıyor.
+2021-11-10 23:48:00 INFO  BasePage:43 - Giriş başarıyla gerçekleşti.
+2021-11-10 23:48:35 INFO  BaseTest:26 - Test Başlıyor.
+2021-11-10 23:48:37 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 23:48:52 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 23:48:52 INFO  BasePage:35 - Giriş sayfası açılıyor.
+2021-11-10 23:48:54 INFO  BasePage:16 - Giriş yapılıyor.
+2021-11-10 23:49:00 INFO  BasePage:43 - Giriş başarıyla gerçekleşti.
+2021-11-10 23:49:45 INFO  BaseTest:38 - Test bitti
+2021-11-10 23:49:51 INFO  BaseTest:26 - Test Başlıyor.
+2021-11-10 23:49:53 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 23:50:09 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 23:50:09 INFO  BasePage:35 - Giriş sayfası açılıyor.
+2021-11-10 23:50:11 INFO  BasePage:16 - Giriş yapılıyor.
+2021-11-10 23:50:16 INFO  BasePage:43 - Giriş başarıyla gerçekleşti.
+2021-11-10 23:50:28 INFO  BaseTest:26 - Test Başlıyor.
+2021-11-10 23:50:30 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 23:50:50 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 23:50:50 INFO  BasePage:35 - Giriş sayfası açılıyor.
+2021-11-10 23:50:52 INFO  BasePage:16 - Giriş yapılıyor.
+2021-11-10 23:50:57 INFO  BasePage:43 - Giriş başarıyla gerçekleşti.
+2021-11-10 23:51:40 INFO  BaseTest:38 - Test bitti
+2021-11-10 23:52:24 INFO  BaseTest:26 - Test Başlıyor.
+2021-11-10 23:52:26 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 23:52:32 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 23:52:32 INFO  BasePage:35 - Giriş sayfası açılıyor.
+2021-11-10 23:52:34 INFO  BasePage:16 - Giriş yapılıyor.
+2021-11-10 23:52:37 INFO  BasePage:43 - Giriş başarıyla gerçekleşti.
+2021-11-10 23:53:03 INFO  BaseTest:26 - Test Başlıyor.
+2021-11-10 23:53:05 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 23:53:11 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 23:53:11 INFO  BasePage:35 - Giriş sayfası açılıyor.
+2021-11-10 23:53:11 INFO  BasePage:16 - Giriş yapılıyor.
+2021-11-10 23:53:17 INFO  BasePage:43 - Giriş başarıyla gerçekleşti.
+2021-11-10 23:53:58 INFO  BaseTest:38 - Test bitti
+2021-11-10 23:55:00 INFO  BaseTest:26 - Test Başlıyor.
+2021-11-10 23:55:02 INFO  BasePage:21 - LC Waikiki sitesi açılıyor.
+2021-11-10 23:55:11 INFO  BasePage:30 - Anasayfa açıldı.
+2021-11-10 23:55:11 INFO  BasePage:35 - Giriş sayfası açılıyor.
+2021-11-10 23:55:11 INFO  BasePage:16 - Giriş yapılıyor.
+2021-11-10 23:55:12 INFO  BaseTest:38 - Test bitti
