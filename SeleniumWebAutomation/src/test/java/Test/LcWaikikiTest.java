@@ -32,5 +32,4 @@ public class LcWaikikiTest extends BaseTest {
                 .checkLastProduct();
 
     }
-
 }
