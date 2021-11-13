@@ -23,7 +23,6 @@ public class ProductPage extends BasePage {
             if(isDisplayed(By.xpath("//*[@id=\"option-size\"]/a["+productSizeArray[i]+"]")) == true){
                 productSize = By.xpath("//*[@id=\"option-size\"]/a["+productSizeArray[i]+"]");
                 click(productSize);
-                System.out.println(i);
             }
         }
 
