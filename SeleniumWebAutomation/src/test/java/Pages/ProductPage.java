@@ -13,18 +13,20 @@ public class ProductPage extends BasePage {
     By productDiscountCartPrice = By.xpath("/html/body/div[5]/div[3]/div[1]/div[2]/div[2]/div[2]/div[1]/div/div[2]/div/div/div[2]/div[2]");
     By productCartPrice = By.xpath("/html/body/div[5]/div[3]/div[1]/div[2]/div[2]/div[2]/div[1]/div/div[1]/div[3]/span");
 
-    int [] productSizeArray = {1,2,3,4,5,6,7,8};
+    int [] productSizeArray = {1,2,3,4,5,6,7,8,9,10,11};
 
     public ProductPage(WebDriver driver){ super(driver); }
 
     public ProductPage addToCart(){
 
-        for(int i=0;i<7;i++){
-            productSize = By.xpath("//*[@id=\"option-size\"]/a["+productSizeArray[i]+"]");
-            click(productSize);
+        for(int i=0;i<10;i++){
+            if(isDisplayed(By.xpath("//*[@id=\"option-size\"]/a["+productSizeArray[i]+"]")) == true){
+                productSize = By.xpath("//*[@id=\"option-size\"]/a["+productSizeArray[i]+"]");
+                click(productSize);
+                System.out.println(i);
+            }
         }
 
-        //click(productSize);
         click(addToCartButton);
 
         try{
